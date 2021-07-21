@@ -1,0 +1,10 @@
+El programa se encarga de obterner todas las combinaciones n(k) con su : numero total y cada combinacion en orden.
+
+las variables n y k se pueden modificar dentro del programa (no se les pregunta al usuario al momento de ejecutarse),
+esto se debe a que esta hecho por si se quiere modificar o solo entender el fundamento.
+
+El programa se puede correr facilmente en la terminal de linux
+
+Para ello se necesita compilar y ejecutarlo un ejemplo es:
+
+gcc Programa_combinaciones_Ascary.c -o 'nombre ejecutable'
