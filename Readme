@@ -8,3 +8,5 @@ El programa se puede correr facilmente en la terminal de linux
 Para ello se necesita compilar y ejecutarlo un ejemplo es:
 
 gcc Programa_combinaciones_Ascary.c -o 'nombre ejecutable'
+
+Realizar un nuevo commit desde vs code 
