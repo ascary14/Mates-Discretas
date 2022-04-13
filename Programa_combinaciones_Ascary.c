@@ -10,15 +10,15 @@ Autor: German Ascary Galindo
 #include <stdlib.h>
 
 //Aqui declaramos los valores k y n como variables globales
-int n = 22;
+int n = 12;//este es el valor de n si los hacemos muy grandes puede imprimir demasiado por ejemplo en este caso debe imprimir 792 combinaciones
 int k = 7;
 
 //Funcion principal
 int main()
 {
 
+    printf("el valor de n es %d \n", n);//decimos que valor tiene n
     printf("el valor de k es %d \n", k);//decimos que valor tiene k
-    printf("el valor de k es %d \n", n);//decimos que valor tiene n
     
     int i, j, h, bandera, cont; //declaracion de variables para los ciclos y para asignarles un numero
     bandera = 0;
